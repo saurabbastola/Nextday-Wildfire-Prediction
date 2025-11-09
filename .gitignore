@@ -1,0 +1,17 @@
+# Ignore virtual environment folder
+venv/
+
+# Ignore JetBrains IDE folder
+.idea/
+
+# Ignore dataset folder
+dataset/
+
+# Ignore wildfire_data folder
+wildfire_data/
+
+# Ignore .ipynb_checkpoints folder
+.ipynb_checkpoints/
+
+# Ignore _pycache_ folder
+_pycache_/
